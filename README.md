@@ -15,3 +15,9 @@ Run the program with:
 ```
 python main.py
 ```
+
+## Results
+
+![Failure Probability](failure_probability.png)
+
+![Message Interval](message_interval.png)
